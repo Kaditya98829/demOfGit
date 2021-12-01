@@ -1,1 +1,1 @@
-this is how to use git.
+this is how to use git. and use it
